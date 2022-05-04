@@ -1,0 +1,25 @@
+---
+title: "Trinity-Topic One"
+author: "Topic One Group"
+date: "r Sys.Date()"
+output: 
+  pdf_document: default
+  html_document: default
+  latex_engine: xelatex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+### Data Source
+
+### Method
+
+# Conclusion
+
+# Discussion
+
+# Reference and Source
